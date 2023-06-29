@@ -1,12 +1,13 @@
 ***Proyecto Final Procesamiento de Datos - Grupo 16.***
+
 Integrantes:
 
-* Sosa, Rodrigo - sosarodrigox@gmail.com
-* Jure, Juan - juansjure@gmail.com
-* Busetti Díaz, Daniela Verñonica - danivbd@gmail.com
-* Soria, Ezequiel - kelo72@live.com.ar
-* ledezma mariano - marianoledezma@gmail.com
-* Horacion Quiroga - 
+    * Sosa, Rodrigo - sosarodrigox@gmail.com
+    * Jure, Juan - juansjure@gmail.com
+    * Busetti Díaz, Daniela Verñonica - danivbd@gmail.com
+    * Soria, Ezequiel - kelo72@live.com.ar
+    * ledezma mariano - marianoledezma@gmail.com
+    * Horacion Quiroga - 
 
 Para este proyecto utilizamos un data frame sobre el Titanic, https://www.kaggle.com/c/titanic/data
 
