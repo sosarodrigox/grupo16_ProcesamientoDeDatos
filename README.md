@@ -7,7 +7,7 @@ Integrantes:
     * Busetti Díaz, Daniela Verñonica - danivbd@gmail.com
     * Soria, Ezequiel - kelo72@live.com.ar
     * ledezma mariano - marianoledezma@gmail.com
-    * Horacion E. Quiroga - horacioequiroga2020@gmail.com
+    * Horacio E. Quiroga - horacioequiroga2020@gmail.com
 
 Para este proyecto utilizamos un data frame sobre el Titanic, https://www.kaggle.com/c/titanic/data
 
