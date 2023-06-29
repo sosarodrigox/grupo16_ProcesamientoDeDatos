@@ -1,7 +1,16 @@
-# grupo16_ProcesamientoDeDatos
-Grupo 16 Procesamiento de Datos ISPC
+***Proyecto Final Procesamiento de Datos - Grupo 16.***
+Integrantes:
 
-Consigna para proyecto de finalización: Procesamiento de Datos
+* Sosa, Rodrigo - sosarodrigox@gmail.com
+* Jure, Juan - juansjure@gmail.com
+* Busetti Díaz, Daniela Verñonica - danivbd@gmail.com
+* Soria, Ezequiel - kelo72@live.com.ar
+* ledezma mariano - marianoledezma@gmail.com
+* Horacion Quiroga - 
+
+Para este proyecto utilizamos un data frame sobre el Titanic, https://www.kaggle.com/c/titanic/data
+
+Consigna para proyecto de finalización: Procesamiento de Datos.
 
 Aplicación de técnicas de procesamiento de datos en una temática relacionada
 
