@@ -1,0 +1,46 @@
+Informe con datos reales basados en los datos proporcionado:
+
+Número total de pasajeros: 891
+
+Supervivencia:
+
+Número de pasajeros que sobrevivieron: 342
+Porcentaje de pasajeros que sobrevivieron: 38.38%
+
+Clase:
+
+Número de pasajeros en cada clase:
+Primera clase: 216
+Segunda clase: 184
+Tercera clase: 491
+
+Género:
+
+Número de pasajeros por género:
+Masculino: 577
+Femenino: 314
+
+Edad:
+
+Edad media de los pasajeros: 29.70 años
+Edad mínima: 0.42 años
+Edad máxima: 80.00 años
+
+Familia a bordo:
+
+Número de hermanos/cónyuges a bordo promedio: 0.52
+Número de padres/hijos a bordo promedio: 0.38
+
+Tarifa:
+
+Tarifa media pagada por los pasajeros: $32.20
+Tarifa mínima: $0.00
+Tarifa máxima: $512.33
+
+Embarque:
+
+Puertos de embarque:
+Cantidad de pasajeros que embarcaron en el puerto S: 644
+Cantidad de pasajeros que embarcaron en el puerto C: 168
+Cantidad de pasajeros que embarcaron en el puerto Q: 77
+Estos son los datos reales del conjunto de datos del Titanic. Utiliza esta información para tu informe sobre los pasajeros del Titanic.
